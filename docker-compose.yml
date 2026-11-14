@@ -1,5 +1,5 @@
 services:
   app:
-    image: cli-app
+    image: console-app
     build: .
     container_name: console-app

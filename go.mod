@@ -1,3 +1,3 @@
-module identity
+module console
 
 go 1.26.5

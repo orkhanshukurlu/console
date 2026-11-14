@@ -1,6 +1,5 @@
 .git
 .gitignore
 .idea
-.env
 docker-compose.yml
 Dockerfile
